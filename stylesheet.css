@@ -40,14 +40,6 @@ div:nth-child(2) {
   background-color: white;
   margin: auto;
 }
-body {
-  text-align: center;
-  margin: auto;
-  width: 100%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
 a {
   text-decoration: none;
   text-align: center;
