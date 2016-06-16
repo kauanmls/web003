@@ -1,19 +1,39 @@
 h1:first-child {
   margin-top: 250px;
   text-align: center;
-  color: red;
+  color: black;
 }
 h1:nth-child(2) {
-  text-align: center;
-  color: red;
+  text-align: left;
+  color: black;
 }
-div {
+h1:nth-child(3) {
+  text-align: left;
+  color: black;
+}
+div:first-child {
   position: relative;
-  height: 50px;
-	width: 150px;
+  height: 300px;
+	width: 200px;
   border: 1px solid black;
   border-radius: 5px;
-  background-color: #FFD700;
+  background-color: #f2f3f4;
+  margin: auto;
+}
+div:nth-child(2) {
+  position: relative;
+  height: 30px;
+	width: 150px;
+  border: 1px solid black;
+  background-color: white;
+  margin: auto;
+}
+div:nth-child(3) {
+  position: relative;
+  height: 30px;
+	width: 150px;
+  border: 1px solid black;
+  background-color: white;
   margin: auto;
 }
 body {
