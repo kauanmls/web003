@@ -17,8 +17,8 @@ h3:nth-child(3) {
 }
 #id {
   position: relative;
-  height: 300px;
-	width: 200px;
+  height: 150px;
+	width: 250px;
   border: 1px solid black;
   border-radius: 5px;
   background-color: #e5e4e2;
