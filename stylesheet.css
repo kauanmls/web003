@@ -1,1 +1,30 @@
-
+h1:first-child {
+  margin-top: 250px;
+  text-align: center;
+  color: red;
+}
+h1:nth-child(2) {
+  text-align: center;
+  color: red;
+}
+div {
+  position: relative;
+  height: 50px;
+	width: 150px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #FFD700;
+  margin: auto;
+}
+body {
+  text-align: center;
+  margin: auto;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
