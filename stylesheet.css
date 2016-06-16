@@ -66,6 +66,7 @@ h3 {
 #au {
   text-align: center;
   color: black;
-  margin: auto;
+  margin-left: 5px;
+  margin-top: 3px;
   position: absolute;
 }
