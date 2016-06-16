@@ -39,4 +39,8 @@ a {
 h2 {
   text-align: center;
   color: blue;
+  position: relative;
+  height: 30px;
+  width: 130px;
+  margin: auto;
 }
