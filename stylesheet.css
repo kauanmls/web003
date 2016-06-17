@@ -13,8 +13,8 @@ body {
   border: 1px solid black;
   border-radius: 5px;
   background-color: #0000ff;
-  margin: auto;
-   margin-top: 280px; 
+   margin-top: 200px;
+   margin: right;
 }
 div:first-child {
    text-align: center;
