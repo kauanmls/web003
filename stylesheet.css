@@ -9,9 +9,11 @@ body {
 div:first-child {
    text-align: center;
    margin-top: 280px;
+   margin: auto;
 }
 div:nth-child(2) {
    margin-left: 20px;
+   margin: auto;
 }
 div:nth-child(3) {
   height: 30px;
@@ -23,6 +25,7 @@ div:nth-child(3) {
 }
 div:nth-child(4) {
    margin-left: 20px;
+   margin: auto;
 }
 div:nth-child(5) {
   height: 30px;
