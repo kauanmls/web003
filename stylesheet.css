@@ -10,10 +10,7 @@ body {
   position: relative;
   height: 330px;
 	width: 250px;
-  border: 1px solid black;
-  border-radius: 5px;
-  background-color: #0000ff;
-   margin-top: 200px;
+   margin-top: 280px;
    margin: auto;
 }
 div:first-child {
