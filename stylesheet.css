@@ -6,15 +6,9 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
-#divId {
-  position: relative;
-  height: 330px;
-	width: 250px;
-   margin-top: 280px;
-   margin: auto;
-}
 div:first-child {
    text-align: center;
+   margin-top: 280px;
 }
 div:nth-child(2) {
    margin-left: 20px;
@@ -22,7 +16,6 @@ div:nth-child(2) {
 div:nth-child(3) {
   height: 30px;
 	width: 190px;
-  border: 1px solid black;
   background-color: white;
   margin-top: 10px;
    margin-left: 20px;
@@ -33,7 +26,6 @@ div:nth-child(4) {
 div:nth-child(5) {
   height: 30px;
 	width: 190px;
-  border: 1px solid black;
   background-color: white;
   margin-top: 10px;
    margin-left: 20px;
