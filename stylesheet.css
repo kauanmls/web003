@@ -18,14 +18,16 @@ div:nth-child(2) {
   margin-top: 10px;
    margin: auto;
    color: silver;
+   text-align: left;
 }
 div:nth-child(3) {
   height: 30px;
 	width: 190px;
   background-color: white;
-  margin-top: 10px;
    margin: auto;
+   margin-top: 10px;
    color: silver;
+   text-align: left;
 }
 div:nth-child(4) {
   height: 40px;
