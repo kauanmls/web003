@@ -16,7 +16,7 @@ div:nth-child(2) {
   background-color: white;
   margin-top: 10px;
    margin: auto;
-   color: #666666;
+   color: #999999;
    text-align: left;
 }
 div:nth-child(3) {
@@ -25,7 +25,7 @@ div:nth-child(3) {
   background-color: white;
    margin: auto;
    margin-top: 20px;
-   color: #666666;
+   color: #999999;
    text-align: left;
 }
 div:nth-child(4) {
