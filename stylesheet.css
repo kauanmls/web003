@@ -1,6 +1,4 @@
 body {
-  text-align: center;
-  margin: auto;
   width: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -17,7 +15,7 @@ div:nth-child(2) {
   background-color: white;
   margin-top: 10px;
    margin: auto;
-   color: silver;
+   color: #666666;
    text-align: left;
 }
 div:nth-child(3) {
@@ -26,7 +24,7 @@ div:nth-child(3) {
   background-color: white;
    margin: auto;
    margin-top: 10px;
-   color: silver;
+   color: #666666;
    text-align: left;
 }
 div:nth-child(4) {
