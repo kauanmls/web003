@@ -5,12 +5,12 @@ body {
   background-attachment: fixed;
   background-size: 100% 100%;
 }
-div:nth-child(2) {
+div:first-child {
    text-align: center;
    margin-top: 150px;
    color: white;
 }
-div:nth-child(3) {
+div:nth-child(2) {
   height: 30px;
 	width: 190px;
   background-color: white;
@@ -19,7 +19,7 @@ div:nth-child(3) {
    color: #999999;
    text-align: left;
 }
-div:nth-child(4) {
+div:nth-child(3) {
   height: 30px;
 	width: 190px;
   background-color: white;
@@ -28,7 +28,7 @@ div:nth-child(4) {
    color: #999999;
    text-align: left;
 }
-div:nth-child(5) {
+div:nth-child(4) {
   height: 40px;
   width: 100px;
   border-radius: 5px;
@@ -53,8 +53,4 @@ a {
 h4 {
  margin-left: 5px;
 }
-img {
- margin-top: 50px;
- height: 200px;
- width: 140px;
-}
+
